@@ -1,0 +1,21 @@
+footer {
+    display: flex;
+    width: 100vw;
+    text-align: center;
+}
+
+.formas_de_pagamento {
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+
+.rodape{
+
+    text-align: center;
+   
+}
+
+.footer_pagamento{
+    width:200px;
+    height: 60px;
+}

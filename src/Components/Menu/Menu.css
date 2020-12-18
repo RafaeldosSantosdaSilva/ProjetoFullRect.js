@@ -1,0 +1,13 @@
+.nav-item{
+    display: flex;
+    justify-content: center;
+}
+
+.active {
+    border-bottom: 2px solid white;
+}
+
+img{
+    width:95px;
+    height: 60px;
+}
